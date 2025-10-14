@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+bin/
+dist/
+
+# Environment variables
+.env
+
+# SQLite
+*.db
+
+# IDE
+.idea/
+.vscode/
+*~
+
+# OS
+.DS_Store
